@@ -1,0 +1,19 @@
+@import url('https://www.who.int/es/news-room/fact-sheets/detail/adolescent-pregnancy#:~:text=las%20adolescentes%20casadas.-,El%20embarazo%20en%20la%20adolescencia%20es%20un%20fen%C3%B3meno%20mundial%20con,la%20evidencia%20necesarias%20para%20prevenirlo.');
+
+
+.btn {
+    background-color: rgb(139, 203, 214);
+    border: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    cursor: pointer;
+
+} 
+ 
+body{
+    background-color: #faffcd;
+   }
